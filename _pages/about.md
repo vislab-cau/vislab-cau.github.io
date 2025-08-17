@@ -28,3 +28,4 @@ Visualization Laboratory investigates the following major research fields:<br>
 3D Computer Graphics, Real-time Rendering, Virtual Reality, Perceptual Graphics, Medical Simulation<br>
 
 
+<img width="100" style="float:right;" src="/assets/img/vislogo3D_2025.png">
