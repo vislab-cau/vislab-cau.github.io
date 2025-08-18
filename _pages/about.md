@@ -30,8 +30,8 @@ Computer Graphics, Virtual Reality, Perceptual Graphics, Medical Simulation<br>
 </p>
 <p>
   Interested in joining our lab? Feel free to contact us:
-<a href="mailto:viscau@gmail.com" aria-label="Email" class="text-primary">
-  <i class="fa-solid fa-envelope" style="font-size:1.2rem;></i>
+<a href="mailto:viscau@gmail.com">
+  <i class="fa-solid fa-envelope" style="color:#0d6efd; font-size:1.2rem;"></i>
 </a>
 </p>
 
