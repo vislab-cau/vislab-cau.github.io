@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href="https://sw.cau.ac.kr">Computer Science and Engineering</a>, <a href="https://www.cau.ac.kr">Chung-Ang University</a>
+subtitle: <a href="https://sw.cau.ac.kr">School of Computer Science and Engineering</a>, <a href="https://www.cau.ac.kr">Chung-Ang University</a>
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
 ---
 Visualization Laboratory investigates the following major research fields:<br>
 
-3D Computer Graphics, Real-time Rendering, Virtual Reality, Perceptual Graphics, Medical Simulation<br>
+Computer Graphics, Virtual Reality, Perceptual Graphics, Medical Simulation<br>
 
 
 <img width="100" style="float:right;" src="/assets/img/vislogo3D_2025.png">
