@@ -27,5 +27,11 @@ Visualization Laboratory investigates the following major research fields:<br>
 
 Computer Graphics, Virtual Reality, Perceptual Graphics, Medical Simulation<br>
 
+<p>
+  If you are interested in joining our lab (undergraduate, MS, PhD students), feel free to contact us:
+<a href="mailto:viscau@gmail.com">
+  <i class="fa-solid fa-envelope"></i> Email
+</a>
+</p>
 
 <img width="100" style="float:right;" src="/assets/img/vislogo3D_2025.png">
