@@ -23,12 +23,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<p>
 Visualization Laboratory investigates the following major research fields:<br>
 
 Computer Graphics, Virtual Reality, Perceptual Graphics, Medical Simulation<br>
-
+</p>
 <p>
-  If you are interested in joining our lab (undergraduate, MS, PhD students), feel free to contact us:
+  Interested in joining our lab?, feel free to contact us:
 <a href="mailto:viscau@gmail.com">
   <i class="fa-solid fa-envelope"></i> Email
 </a>
