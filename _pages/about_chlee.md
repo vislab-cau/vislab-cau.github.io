@@ -6,9 +6,9 @@ Chung-Ang University<br>
 84 Heukseok-Ro, Dongjak-Gu, Seoul 06974, Korea<br>
 Tel: +82-2-820-5830; <br>
 
-<h3 class="sectitle"> Education </h3><br>
-  <ul>
-  <li>Ph.D. in Computer Science, University of Maryland, College Park, USA, 08/2005</li>
-  <li>M.S. in Computer Science & Statistics, Seoul National University, Seoul, Korea, 02/1997 </li>
-  <li>B.S. in Computer Science & Statistics, Seoul National University, Seoul, Korea, 02/1995 </li>
-  </ul>
+<b> Education </b><br>
+<ul>
+<li>Ph.D. in Computer Science, University of Maryland, College Park, USA, 08/2005</li>
+<li>M.S. in Computer Science & Statistics, Seoul National University, Seoul, Korea, 02/1997 </li>
+<li>B.S. in Computer Science & Statistics, Seoul National University, Seoul, Korea, 02/1995 </li>
+</ul>
