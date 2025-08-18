@@ -1,13 +1,13 @@
 <b>Chang Ha Lee</b>
+<a href="mailto:viscau@gmail.com">
+<i class="fa-solid fa-envelope" style="color:#0d6efd; font-size:1.0rem;"></i>
+</a>
 <p>
 Associate Professor<br>
 School of Computer Science and Engineering<br>
 Chung-Ang University<br>
 84 Heukseok-Ro, Dongjak-Gu, Seoul 06974, Korea<br>
-Tel: +82-2-820-5830;    
-<a href="mailto:viscau@gmail.com">
-<i class="fa-solid fa-envelope" style="color:#0d6efd; font-size:1.0rem;"></i>
-</a><br>
+Tel: +82-2-820-5830;<br>
 </p>
 
 <p>
