@@ -17,6 +17,15 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+
+ a {
+    color: var(--global-text-color);
+
+    &:hover {
+      color: var(--global-hover-color);
+      text-decoration: none;
+    }
+  }  
 }
 
 hr {
