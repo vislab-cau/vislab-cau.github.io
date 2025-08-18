@@ -1,0 +1,7 @@
+Research over the last decade has built a solid mathematical foundation for representation and analysis of 3D meshes in graphics and geometric modeling. Much of this work however does not explicitly incorporate models of low-level human visual attention. In this paper we introduce the idea of mesh saliency as a measure of regional importance for graphics meshes. Our notion of saliency is inspired by low-level human visual system cues. We define mesh saliency in a scale-dependent manner using a center-surround operator on Gaussian-weighted mean curvatures. We observe that such a definition of mesh saliency is able to capture what most would classify as visually interesting regions on a mesh. The human-perception-inspired importance measure computed by our mesh saliency operator results in more visually pleasing results in processing and viewing of 3D meshes. compared to using a purely geometric measure of shape. such as curvature. We discuss how mesh saliency can be incorporated in graphics applications such as mesh simplification and viewpoint selection and present examples that show visually appealing results from using mesh saliency.
+
+![original](/assets/img/research/old/male_s.gif)
+![saliency](/assets/img/research/old/male_sal_s.gif)
+![simplified](/assets/img/research/old/male_sim_s.gif)
+
+- Mesh Saliency. Chang Ha Lee, Amitabh Varshney, and David Jacobs. ACM Transactions on Graphics (SIGGRAPH 2005) Vol 24, No 3, pages 659-666, 2005. (<a href="https://www.cs.umd.edu/gvil/papers/mesh_saliency_sig05.pdf">PDF</a>)
